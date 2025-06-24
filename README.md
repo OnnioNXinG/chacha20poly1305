@@ -1,4 +1,4 @@
-# Chacha20Poly1305
+### Chacha20Poly1305
 
 This repository implements the ChaCha20Poly1305 AEAD construction. ChaCha20Pol1305 is combination
 of the [ChaCha20 stream cipher](https://github.com/aead/chacha20) and the [Poly1305 authenticator](https://github.com/aead/poly1305) and is standardized in [RFC 7539](https://tools.ietf.org/html/rfc7539).
